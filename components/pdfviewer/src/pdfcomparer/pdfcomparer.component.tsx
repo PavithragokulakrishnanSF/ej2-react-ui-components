@@ -1,28 +1,28 @@
 import * as React from 'react';
-import { BlockEditor, BlockEditorModel } from '@syncfusion/ej2-blockeditor';
+import { PdfComparer, PdfComparerModel } from '@syncfusion/ej2-pdfviewer';
 import { ComponentBase, applyMixins, DefaultHtmlAttributes } from '@syncfusion/ej2-react-base';
 
 
 
 /**
- * Represents the React BlockEditor Component
+ * `Represents the react PdfComparer Component.
  * ```ts
- * <BlockEditorComponent></BlockEditorComponent>
+ * <PdfComparerComponent />
  * ```
  */
-export class BlockEditorComponent extends BlockEditor {
+export class PdfComparerComponent extends PdfComparer {
     public state: Readonly<{ children?: React.ReactNode | React.ReactNode[] }> 
-    & Readonly<BlockEditorModel | DefaultHtmlAttributes>;
+    & Readonly<PdfComparerModel | DefaultHtmlAttributes>;
     public setState: any;
     private getDefaultAttributes: Function;
     public initRenderCalled: boolean = false;
-    private checkInjectedModules: boolean = true;
+    private checkInjectedModules: boolean = false;
     private statelessTemplateProps: string[] = null;
     private templateProps: string[] = null;
     private immediateRender: boolean = true;
     private isReactMock: boolean = true;
     public props: Readonly<{ children?: React.ReactNode | React.ReactNode[] }>
-     & Readonly<BlockEditorModel | DefaultHtmlAttributes>;
+     & Readonly<PdfComparerModel | DefaultHtmlAttributes>;
     public forceUpdate: (callBack?: () => any) => void;
     public context: Object;
     public portals: any = [];
@@ -46,4 +46,4 @@ export class BlockEditorComponent extends BlockEditor {
     }
 }
 
-applyMixins(BlockEditorComponent, [ComponentBase, React.Component]);
+applyMixins(PdfComparerComponent, [ComponentBase, React.Component]);

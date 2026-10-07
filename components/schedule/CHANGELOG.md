@@ -12,6 +12,8 @@
 
 - Provided support for the event buffer feature to display configured `bufferBefore` and `bufferAfter` time reservations around appointments. The feature is supported on `Day`, `Week`, `WorkWeek`, `TimelineDay`, `TimelineWeek`, and `TimelineWorkWeek` views when `enableBuffer` is enabled with `TimeScale`.
 
+- Provided support for the current time indicator customization feature through the `currentTimeIndicatorSettings` property, offering per-aspect control over label visibility (`showTime`), line span (`showPreviousDates`), and stacking (`onTop`). The feature is supported on `Day`, `Week`, `WorkWeek`, `TimelineDay`, `TimelineWeek`, and `TimelineWorkWeek` views when `TimeScale` is enabled, and `showTimeIndicator` is set to `true`.
+
 - `#I618429` - Added the `groupIndex` value to the `dateHeaderTemplate` when the date header is grouped by resource. This enables resource-specific customization of date headers. Applicable only for `Day`, `Week`, `WorkWeek`, and `Agenda` views when resource-specific date headers are rendered.
 
 #### Bug fixes

@@ -2,13 +2,25 @@
 
 ## [Unreleased]
 
-## 35.1.37 (2026-09-29)
+## 35.1.39 (2026-10-07)
 
-### Mention
+### DropdownList
 
 #### Bug Fixes
 
-- `#I761793` - The issue of editing in Firefox after utilizing the home and end keys following Mention item insertion has been successfully resolved.
+- `#I874489` - Resolved the issue where an empty label was added when no placeholder was provided.
+
+### MultiSelect
+
+#### Bug Fixes
+
+- `#I874490` - Resolved the issue where aria active descendant was not updated when the data source was dynamically updated.
+
+### ListBox
+
+#### Bug Fixes
+
+- `#I873166` - Resolved the issue where the Select All option was displayed twice and a console error was thrown when using the set Properties method.
 
 ## 28.2.9 (2025-03-04)
 
@@ -2230,7 +2242,15 @@ DropDownList component contains a list of predefined values from which a single 
 
 - **Templates** - Allows customizing the list items, selected value, header, footer, category group header, and no records content.
 
-- **Accessibility** - Provided with built-in accessibility support which helps to access all the DropDownList component features through the keyboard, screen readers, or other assistive technology devices.## 29.1.33 (2025-03-25)
+- **Accessibility** - Provided with built-in accessibility support which helps to access all the DropDownList component features through the keyboard, screen readers, or other assistive technology devices.## 35.1.37 (2026-09-29)
+
+### Mention
+
+#### Bug Fixes
+
+- `#I761793` - The issue of editing in Firefox after utilizing the home and end keys following Mention item insertion has been successfully resolved.
+
+## 29.1.33 (2025-03-25)
 
 ### Mention
 
