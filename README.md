@@ -166,23 +166,6 @@ With our commitment to at least four major updates per year, you receive the mos
    </tr>
    <tr>
        <td>
-           <a href="https://www.syncfusion.com/react-ui-components/react-block-editor"><b>Block Editor (Headless Editor)</b></a>
-       </td>
-       <td>
-           <a href="https://www.npmjs.com/package/@syncfusion/ej2-react-blockeditor"><img src="https://ej2.syncfusion.com/github/images/npm-logo.png" alt="npm package @syncfusion/ej2-react-blockeditor" title="@syncfusion/ej2-react-blockeditor" style="height:20px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ej2.syncfusion.com/badges/ej2-blockeditor"><img src="https://ej2.syncfusion.com/badges/ej2-blockeditor/coverage.svg" alt="code coverage of @syncfusion/ej2-react-blockeditor" title="@syncfusion/ej2-react-blockeditor" /></a>
-       </td>
-       <td>
-           <a href="src/blockeditor/src">Source</a>
-       </td>
-       <td>
-           <a href="https://ej2.syncfusion.com/react/demos/#/bootstrap5/block-editor/overview">Live demo</a>
-       </td>
-       <td>
-           <a href="https://help.syncfusion.com/rich-text-editor-sdk/react/block-editor/getting-started/">Documentation</a>
-       </td>
-   </tr>
-   <tr>
-       <td>
            <a href="https://www.syncfusion.com/react-ui-components/react-rich-text-editor-ui"><b>Rich Text Editor UI</b></a>
        </td>
        <td>
