@@ -1,29 +1,41 @@
 # Syncfusion React UI Components Library (Essential JS 2)
- Syncfusion React UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
- > This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of Syncfusion's EULA (https://www.syncfusion.com/eula/es/). To acquire a license, you can purchase one at https://www.syncfusion.com/sales/products or start a free 30-day trial here (https://www.syncfusion.com/account/manage-trials/start-trials).
+
+The Syncfusion React UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every application will ever need.
+
+> This is a commercial product and requires a paid license for possession or use. Syncfusion's licensed software, including this component, is subject to the terms and conditions of Syncfusion's EULA (https://www.syncfusion.com/eula/es/). To acquire a license, you can purchase one at https://www.syncfusion.com/sales/products or start a free 30-day trial here (https://www.syncfusion.com/account/manage-trials/start-trials).
 >
 > A free community license (https://www.syncfusion.com/products/communitylicense) is also available for companies and individuals whose organizations have less than $1 million USD in annual gross revenue and five or fewer developers.
- ## Resources
- * [Getting Started](https://ej2.syncfusion.com/react/documentation/getting-started/quick-start?utm_source=npm&utm_campaign=ej2-react-ui-components)
+
+## Resources
+
+* [Getting Started](https://ej2.syncfusion.com/react/documentation/getting-started/quick-start?utm_source=npm&utm_campaign=ej2-react-ui-components)
 * [View Online Demos](https://ej2.syncfusion.com/react/demos?utm_source=npm&utm_campaign=ej2-react-ui-components)
 * [Product Page](https://www.syncfusion.com/react-ui-components?utm_source=npm&utm_campaign=ej2-react-ui-components)
- ## Framework highlights
- ### Lightweight and user friendly
- The entire Library framework is built from scratch to be lightweight and modular. Its footprint can be reduced further by including only the specific components and features your application requires.
- ### Modular architecture
- All components have been built as modules to enable selective referencing, so only the components and features you need are included in your application.
- ### Built for performance
- Performance is critical for delivering a good user experience. We ensure that all our components are designed and built to achieve the best performance possible.
- ### Responsive and touch friendly
- All the components are touch friendly and render adaptively based on the device they are on to provide optimal usage experience on phones, tablets and desktops.
- ### Stunning built-in themes
- Pixel-perfect built-in themes are available in material, bootstrap and fabric design. In addition, it comes with Accessible high-contrast theme and an online tool "[Theme Studio](https://ej2.syncfusion.com/themestudio/)" to customize the provided built-in themes.
- ### Globalization simplified
- Easily build applications to be used by a global audience in various language and culture settings.
- ### Stay current
- With our commitment to at least four major updates per year, you receive the most up-to-date functionality and new components in addition to monthly service packs and bug fixes. Custom patches are available as needed.
 
- ## Control List
+## Framework highlights
+
+### Lightweight and user friendly
+The entire library is built from scratch to be lightweight and modular. Its footprint can be reduced further by including only the specific components and features your application requires.
+
+### Modular architecture
+All components have been built as modules to enable selective referencing, so only the components and features you need are included in your application.
+
+### Built for performance
+Performance is critical for delivering a good user experience. We ensure that all our components are designed and built to achieve the best performance possible.
+
+### Responsive and touch friendly
+All the components are touch friendly and render adaptively based on the device they are on, to provide an optimal usage experience on phones, tablets and desktops.
+
+### Stunning built-in themes
+Pixel-perfect built-in themes are available in material, bootstrap and fabric designs. In addition, it comes with an accessible high-contrast theme and an online tool, "[Theme Studio](https://ej2.syncfusion.com/themestudio/)", to customize the provided built-in themes.
+
+### Globalization simplified
+Easily build applications to be used by a global audience in various language and culture settings.
+
+### Stay current
+With our commitment to at least four major updates per year, you receive the most up-to-date functionality and new components, in addition to monthly service packs and bug fixes. Custom patches are available as needed.
+
+ ## Control List 
 
 ### Grids
 
@@ -150,6 +162,40 @@
        </td>
        <td>
            <a href="https://ej2.syncfusion.com/react/documentation/document-editor/getting-started/">Documentation</a>
+       </td>
+   </tr>
+   <tr>
+       <td>
+           <a href="https://www.syncfusion.com/react-ui-components/react-block-editor"><b>Block Editor (Headless Editor)</b></a>
+       </td>
+       <td>
+           <a href="https://www.npmjs.com/package/@syncfusion/ej2-react-blockeditor"><img src="https://ej2.syncfusion.com/github/images/npm-logo.png" alt="npm package @syncfusion/ej2-react-blockeditor" title="@syncfusion/ej2-react-blockeditor" style="height:20px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ej2.syncfusion.com/badges/ej2-blockeditor"><img src="https://ej2.syncfusion.com/badges/ej2-blockeditor/coverage.svg" alt="code coverage of @syncfusion/ej2-react-blockeditor" title="@syncfusion/ej2-react-blockeditor" /></a>
+       </td>
+       <td>
+           <a href="src/blockeditor/src">Source</a>
+       </td>
+       <td>
+           <a href="https://ej2.syncfusion.com/react/demos/#/bootstrap5/block-editor/overview">Live demo</a>
+       </td>
+       <td>
+           <a href="https://help.syncfusion.com/rich-text-editor-sdk/react/block-editor/getting-started/">Documentation</a>
+       </td>
+   </tr>
+   <tr>
+       <td>
+           <a href="https://www.syncfusion.com/react-ui-components/react-rich-text-editor-ui"><b>Rich Text Editor UI</b></a>
+       </td>
+       <td>
+           <a href="https://www.npmjs.com/package/@syncfusion/ej2-react-richtexteditor-ui"><img src="https://ej2.syncfusion.com/github/images/npm-logo.png" alt="npm package @syncfusion/ej2-react-richtexteditor-ui" title="@syncfusion/ej2-react-richtexteditor-ui" style="height:20px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ej2.syncfusion.com/badges/ej2-richtexteditor-ui"><img src="https://ej2.syncfusion.com/badges/ej2-richtexteditor-ui/coverage.svg" alt="code coverage of @syncfusion/ej2-react-richtexteditor-ui" title="@syncfusion/ej2-react-richtexteditor-ui" /></a>
+       </td>
+       <td>
+           <a href="src/richtexteditorui/src">Source</a>
+       </td>
+       <td>
+           <a href="https://ej2.syncfusion.com/react/demos/#/bootstrap5/rich-text-editor-ui/default">Live demo</a>
+       </td>
+       <td>
+           <a href="https://ej2.syncfusion.com/react/documentation/rich-text-editor-ui/getting-started/">Documentation</a>
        </td>
    </tr>
 </table>
@@ -1166,6 +1212,40 @@
        </td>
        <td>
            <a href="https://ej2.syncfusion.com/react/documentation/query-builder/getting-started/">Documentation</a>
+       </td>
+   </tr>
+   <tr>
+       <td>
+           <a href="https://www.syncfusion.com/react-ui-components/react-form-builder"><b>Form Builder</b></a>
+       </td>
+       <td>
+           <a href="https://www.npmjs.com/package/@syncfusion/ej2-react-form-builder"><img src="https://ej2.syncfusion.com/github/images/npm-logo.png" alt="npm package @syncfusion/ej2-react-form-builder" title="@syncfusion/ej2-react-form-builder" style="height:20px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ej2.syncfusion.com/badges/ej2-form-builder"><img src="https://ej2.syncfusion.com/badges/ej2-form-builder/coverage.svg" alt="code coverage of @syncfusion/ej2-react-form-builder" title="@syncfusion/ej2-react-form-builder" /></a>
+       </td>
+       <td>
+           <a href="src/formbuilder/src">Source</a>
+       </td>
+       <td>
+           <a href="https://ej2.syncfusion.com/react/demos/#/bootstrap5/form-builder/default">Live demo</a>
+       </td>
+       <td>
+           <a href="https://ej2.syncfusion.com/react/documentation/form-builder/getting-started/">Documentation</a>
+       </td>
+   </tr>
+   <tr>
+       <td>
+           <a href="https://www.syncfusion.com/react-ui-components/react-form-renderer"><b>Form Renderer</b></a>
+       </td>
+       <td>
+           <a href="https://www.npmjs.com/package/@syncfusion/ej2-react-form-renderer"><img src="https://ej2.syncfusion.com/github/images/npm-logo.png" alt="npm package @syncfusion/ej2-react-form-renderer" title="@syncfusion/ej2-react-form-renderer" style="height:20px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ej2.syncfusion.com/badges/ej2-form-renderer"><img src="https://ej2.syncfusion.com/badges/ej2-form-renderer/coverage.svg" alt="code coverage of @syncfusion/ej2-react-form-renderer" title="@syncfusion/ej2-react-form-renderer" /></a>
+       </td>
+       <td>
+           <a href="src/formrenderer/src">Source</a>
+       </td>
+       <td>
+           <a href="https://ej2.syncfusion.com/react/demos/#/bootstrap5/form-renderer/default">Live demo</a>
+       </td>
+       <td>
+           <a href="https://ej2.syncfusion.com/react/documentation/form-renderer/getting-started/">Documentation</a>
        </td>
    </tr>
 </table>
